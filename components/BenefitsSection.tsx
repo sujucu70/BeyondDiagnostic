@@ -3,7 +3,7 @@ import { CheckCircleIcon } from './icons/FeatureIcons';
 
 const Stats: React.FC = () => (
     <div className="mt-16">
-        <h3 className="text-2xl font-bold text-center text-text-primary mb-8 font-sans">Resultados típicos de nuestros clientes</h3>
+        <h3 className="text-2xl font-bold text-center text-text-primary mb-8 font-sans">Resultados típicos</h3>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             <div className="bg-surface p-6 rounded-lg">
                 <p className="text-4xl font-bold text-primary">€280K</p>
@@ -59,10 +59,10 @@ const BenefitsSection: React.FC = () => {
             <div className="container mx-auto px-6">
                 <div className="text-center max-w-3xl mx-auto">
                     <h2 className="text-3xl md:text-4xl font-bold text-text-primary mb-6 font-sans tracking-tight">
-                        Toma decisiones estratégicas con datos, no conjeturas
+                        Toma decisiones estratégicas con datos
                     </h2>
                     <p className="text-lg text-text-secondary opacity-75">
-                        Nuestro análisis está diseñado para proporcionar claridad y un plan de acción concreto a toda la cúpula directiva.
+                        Nuestro análisis está diseñado para proporcionar claridad y un plan de acción concreto.
                     </p>
                 </div>
                 <div className="mt-12 max-w-5xl mx-auto grid md:grid-cols-2 gap-8">

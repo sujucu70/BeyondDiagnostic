@@ -74,7 +74,7 @@ const SolutionSection: React.FC = () => {
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-24 items-center">
           <div className="order-2 lg:order-1">
             <h2 className="text-3xl md:text-4xl font-bold text-text-primary mb-6 font-sans tracking-tight">
-              Beyond Diagnostic™: De incertidumbre a decisión en 14 días
+              Beyond Diagnostic: De incertidumbre a decisión en 14 días
             </h2>
             <h3 className="text-xl font-bold text-text-primary mt-8 mb-4">¿Qué es?</h3>
             <p className="text-text-secondary opacity-75 mb-8">

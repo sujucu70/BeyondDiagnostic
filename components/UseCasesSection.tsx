@@ -31,12 +31,12 @@ const UseCasesSection: React.FC = () => {
       <div className="container mx-auto px-6">
         <div className="text-center max-w-3xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold text-text-primary mb-12 font-sans tracking-tight">
-                ¿Para quién es Beyond Diagnostic™?
+                ¿Para quién es Beyond Diagnostic?
             </h2>
         </div>
         <div className="grid lg:grid-cols-3 gap-8">
             <UseCaseCard
-                title="EMPRESA CONSIDERANDO IA"
+                title="Empresa considerando IA"
                 scenario="Sabemos que deberíamos automatizar, pero no sabemos por dónde empezar"
                 perfectFor={[
                     "Tienes contact center con >20 agentes",
@@ -47,7 +47,7 @@ const UseCasesSection: React.FC = () => {
                 whatYouGet="Roadmap priorizado por ROI que te dice exactamente qué automatizar primero."
             />
             <UseCaseCard
-                title="OPERACIÓN CON INEFICIENCIAS SOSPECHADAS"
+                title="Operación con ineficiencias sospechadas"
                 scenario="Nuestros costes son altos y CSAT está estancado, pero no sabemos qué optimizar"
                 perfectFor={[
                     "Tu AHT ha crecido 15%+ en último año",
@@ -58,7 +58,7 @@ const UseCasesSection: React.FC = () => {
                 whatYouGet="Baseline cuantificado + oportunidades de €100K-€500K que no habías identificado."
             />
             <UseCaseCard
-                title="BENCHMARK COMPETITIVO"
+                title="Benchmark Competitivo"
                 scenario="No sé si estamos mejor o peor que la competencia"
                 perfectFor={[
                     "Llevas >2 años sin revisar operación profundamente",
