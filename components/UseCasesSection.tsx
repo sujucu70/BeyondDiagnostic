@@ -31,7 +31,7 @@ const UseCasesSection: React.FC = () => {
       <div className="container mx-auto px-6">
         <div className="text-center max-w-3xl mx-auto">
             <h2 className="text-3xl md:text-4xl font-bold text-text-primary mb-12 font-sans tracking-tight">
-                ¿Para quién es Beyond Diagnostic?
+                ¿Para quién es BeyondCX Analytics?
             </h2>
         </div>
         <div className="grid lg:grid-cols-3 gap-8">
